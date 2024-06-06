@@ -13,11 +13,13 @@
     }
 
     .container {
+        width: 90%;
         margin: 0;
         padding: 12px;
     }
 
     .btn {
         color: black;
+        height: 50px;
     }
 }
