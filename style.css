@@ -41,6 +41,7 @@ td {
 
 .btn {
     background-color: rgb(223, 221, 221);
+    color: black;
     width: 100%;
     height: 40px;
     cursor: pointer;
